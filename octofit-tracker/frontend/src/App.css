@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header {
+  border-bottom: 2px solid #646cff;
+  padding-bottom: 1rem;
+}
+
+h1 {
+  color: #646cff;
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.7);
+}
